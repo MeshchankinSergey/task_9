@@ -1,0 +1,23 @@
+body {
+    text-align: center;
+}
+
+.heading {
+    text-transform: uppercase;
+}
+
+ul li {
+    list-style-type: none;
+    letter-spacing: 0.1em;
+    font-size: 24px;
+
+}
+
+ul li a {
+    color: black;
+    margin-right: 48px;
+    font-weight: 500px;
+    text-decoration: none;
+}
+
+ul li a:hover {color:#3d689c;}
