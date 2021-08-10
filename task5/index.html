@@ -8,9 +8,9 @@
 <form action="#">
     <label>
         Текст
-        <input type="text" placeholder="Введите текст">
+        <input id="field" type="text" placeholder="Введите текст" onkeyup="updateText()">
     </label>
-    <button type="submit">
+    <button type="submit" id="sendTextButton">
         Вывести текст в консоль и удалить из формы
     </button>
 </form>
