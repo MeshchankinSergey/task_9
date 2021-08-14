@@ -1,4 +1,8 @@
-p {
+h1 {
+    font-style: italic;
+    position: absolute;
     text-align: center;
-    font-size: 32px;
+    font-size: 40px;
+    top: 40%;
+    width: 100%;
 }

@@ -1,6 +1,12 @@
 .text {
+    position: absolute;
     text-decoration: none;
-    font-size: 30px;
-    color: rgb(240, 88, 88);
+    font-size: 35px;
+    color: rgb(80, 121, 68);
     font-weight: bold;
+    margin: 20px 40px;
+}
+
+.text:hover {
+    color: rgb(99, 177, 96);
 }
